@@ -25,7 +25,7 @@ const getData = async function (numUsers) {
 //      [[Prototype]]: Array(0)
     displayUsers(userResults);
 };
-getData(1);
+getData(5);
 
 //Display Users Function 
 const displayUsers = function (userResults) { 
